@@ -1,7 +1,10 @@
 # Arduino-Smiley ![arduinoThumb](https://github.com/ICAREMAKER/Arduino-Smiley/assets/107696317/3546fb55-9369-4be6-94d4-7dda9561134d) ![C++-Logo wine](https://github.com/ICAREMAKER/Arduino-Smiley/assets/107696317/302622b4-3737-42e1-8740-c97751707820)
 
-## Liste
+## Preview
+![Psmile1](https://github.com/ICAREMAKER/Arduino-Smiley/assets/107696317/aa1a83d8-7a39-46a2-8e8e-204b9bb74d16)
 
+## CODE
+### SMILEY 1
 ### ![smile1](https://github.com/ICAREMAKER/Arduino-Smiley/assets/107696317/74784e4e-2363-407f-baac-39986e1c1d4a)
 
 
@@ -25,6 +28,7 @@ void image1a()
   }
 }
 ```
+### SMILEY 2
 ### ![smile2](https://github.com/ICAREMAKER/Arduino-Smiley/assets/107696317/4ae08884-7079-4a72-b72b-d1cfb7699899)
 
 ```C
@@ -47,6 +51,7 @@ void image1b()
   }
 }
 ```
+### SMILEY 3
 ### ![smile3](https://github.com/ICAREMAKER/Arduino-Smiley/assets/107696317/ef4fc7df-f679-4c58-94d8-258620575c46)
 
 ```C
